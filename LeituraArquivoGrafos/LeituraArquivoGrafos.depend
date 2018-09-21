@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537542021 source:/home/patrickbarbosa/Documents/LeituraArquivoGrafos/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
